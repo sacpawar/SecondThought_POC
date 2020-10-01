@@ -44,6 +44,7 @@ namespace DataMigration_firebasefunctions
                                 Uri siteUrl = response.Headers.Location;
                             }
 
+
                             //Console.WriteLine("Get");
                             //var products = await client.GetAsync($"{baseUrl}/products");
                             //if (products.IsSuccessStatusCode)
